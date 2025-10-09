@@ -17,3 +17,4 @@ This repository serves as a living portfolio of my work and progress in the fiel
 The repository is organized by topic to ensure clarity and ease of navigation. Each folder contains Jupyter notebooks or Python scripts related to the specific subject.
 
 * `📁 01_Python_for_DA`: Notebooks covering Python fundamentals, data structures, and functions essential for data analysis. NumPy_Practice : Exercises focusing on numerical operations, array manipulation, and mathematical functions with NumPy.
+* `📁 02_Python_for_DA`: Notebooks covering Python fundamentals, data structures, and functions essential for data analysis. Pandas_Practice : Exercises focusing on data sets gathering, forming, cleaning etc.
